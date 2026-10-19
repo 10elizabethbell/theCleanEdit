@@ -1,0 +1,492 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-19T00:00:00Z",
+  "title": "Design System: The Clean Edit • Home + Closet",
+  "extensions": {
+    "colorMeta": {
+      "linen": {
+        "role": "neutral",
+        "displayName": "Undyed Linen",
+        "canonical": "oklch(95.3% 0.010 81.8)",
+        "tonalRamp": [
+          "oklch(15% 0.010 81.8)",
+          "oklch(26% 0.010 81.8)",
+          "oklch(37% 0.010 81.8)",
+          "oklch(48% 0.010 81.8)",
+          "oklch(59% 0.010 81.8)",
+          "oklch(70% 0.010 81.8)",
+          "oklch(82% 0.010 81.8)",
+          "oklch(95% 0.010 81.8)"
+        ]
+      },
+      "linen-2": {
+        "role": "neutral",
+        "displayName": "Pressed Linen",
+        "canonical": "oklch(92.4% 0.018 81.3)",
+        "tonalRamp": [
+          "oklch(15% 0.018 81.3)",
+          "oklch(26% 0.018 81.3)",
+          "oklch(37% 0.018 81.3)",
+          "oklch(48% 0.018 81.3)",
+          "oklch(59% 0.018 81.3)",
+          "oklch(70% 0.018 81.3)",
+          "oklch(82% 0.018 81.3)",
+          "oklch(95% 0.018 81.3)"
+        ]
+      },
+      "mist": {
+        "role": "neutral",
+        "displayName": "Sage Mist",
+        "canonical": "oklch(92.3% 0.017 113.8)",
+        "tonalRamp": [
+          "oklch(15% 0.017 113.8)",
+          "oklch(26% 0.017 113.8)",
+          "oklch(37% 0.017 113.8)",
+          "oklch(48% 0.017 113.8)",
+          "oklch(59% 0.017 113.8)",
+          "oklch(70% 0.017 113.8)",
+          "oklch(82% 0.017 113.8)",
+          "oklch(95% 0.017 113.8)"
+        ]
+      },
+      "ring": {
+        "role": "neutral",
+        "displayName": "Seal Ring",
+        "canonical": "oklch(86.8% 0.022 76.5)",
+        "tonalRamp": [
+          "oklch(15% 0.022 76.5)",
+          "oklch(26% 0.022 76.5)",
+          "oklch(37% 0.022 76.5)",
+          "oklch(48% 0.022 76.5)",
+          "oklch(59% 0.022 76.5)",
+          "oklch(70% 0.022 76.5)",
+          "oklch(82% 0.022 76.5)",
+          "oklch(95% 0.022 76.5)"
+        ]
+      },
+      "sage": {
+        "role": "primary",
+        "displayName": "Leaf Sage",
+        "canonical": "oklch(61.2% 0.051 127.7)",
+        "tonalRamp": [
+          "oklch(15% 0.051 127.7)",
+          "oklch(26% 0.051 127.7)",
+          "oklch(37% 0.051 127.7)",
+          "oklch(48% 0.051 127.7)",
+          "oklch(59% 0.051 127.7)",
+          "oklch(70% 0.051 127.7)",
+          "oklch(82% 0.051 127.7)",
+          "oklch(95% 0.051 127.7)"
+        ]
+      },
+      "sage-deep": {
+        "role": "primary",
+        "displayName": "Sprig Sage",
+        "canonical": "oklch(45.8% 0.045 132.4)",
+        "tonalRamp": [
+          "oklch(15% 0.045 132.4)",
+          "oklch(26% 0.045 132.4)",
+          "oklch(37% 0.045 132.4)",
+          "oklch(48% 0.045 132.4)",
+          "oklch(59% 0.045 132.4)",
+          "oklch(70% 0.045 132.4)",
+          "oklch(82% 0.045 132.4)",
+          "oklch(95% 0.045 132.4)"
+        ]
+      },
+      "forest": {
+        "role": "neutral",
+        "displayName": "Forest",
+        "canonical": "oklch(33.7% 0.029 141.1)",
+        "tonalRamp": [
+          "oklch(15% 0.029 141.1)",
+          "oklch(26% 0.029 141.1)",
+          "oklch(37% 0.029 141.1)",
+          "oklch(48% 0.029 141.1)",
+          "oklch(59% 0.029 141.1)",
+          "oklch(70% 0.029 141.1)",
+          "oklch(82% 0.029 141.1)",
+          "oklch(95% 0.029 141.1)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(28.1% 0.016 133.7)",
+        "tonalRamp": [
+          "oklch(15% 0.016 133.7)",
+          "oklch(26% 0.016 133.7)",
+          "oklch(37% 0.016 133.7)",
+          "oklch(48% 0.016 133.7)",
+          "oklch(59% 0.016 133.7)",
+          "oklch(70% 0.016 133.7)",
+          "oklch(82% 0.016 133.7)",
+          "oklch(95% 0.016 133.7)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Soft Ink",
+        "canonical": "oklch(45.8% 0.020 129.0)",
+        "tonalRamp": [
+          "oklch(15% 0.020 129.0)",
+          "oklch(26% 0.020 129.0)",
+          "oklch(37% 0.020 129.0)",
+          "oklch(48% 0.020 129.0)",
+          "oklch(59% 0.020 129.0)",
+          "oklch(70% 0.020 129.0)",
+          "oklch(82% 0.020 129.0)",
+          "oklch(95% 0.020 129.0)"
+        ]
+      },
+      "brass": {
+        "role": "secondary",
+        "displayName": "Brass Thread",
+        "canonical": "oklch(61.1% 0.089 71.1)",
+        "tonalRamp": [
+          "oklch(15% 0.089 71.1)",
+          "oklch(26% 0.089 71.1)",
+          "oklch(37% 0.089 71.1)",
+          "oklch(48% 0.089 71.1)",
+          "oklch(59% 0.089 71.1)",
+          "oklch(70% 0.089 71.1)",
+          "oklch(82% 0.089 71.1)",
+          "oklch(95% 0.089 71.1)"
+        ]
+      },
+      "field-edge": {
+        "role": "neutral",
+        "displayName": "Field Edge",
+        "canonical": "oklch(63.6% 0.030 78.1)",
+        "tonalRamp": [
+          "oklch(15% 0.030 78.1)",
+          "oklch(26% 0.030 78.1)",
+          "oklch(37% 0.030 78.1)",
+          "oklch(48% 0.030 78.1)",
+          "oklch(59% 0.030 78.1)",
+          "oklch(70% 0.030 78.1)",
+          "oklch(82% 0.030 78.1)",
+          "oklch(95% 0.030 78.1)"
+        ]
+      },
+      "field-fill": {
+        "role": "neutral",
+        "displayName": "Field Fill",
+        "canonical": "oklch(98.3% 0.006 84.6)",
+        "tonalRamp": [
+          "oklch(15% 0.006 84.6)",
+          "oklch(26% 0.006 84.6)",
+          "oklch(37% 0.006 84.6)",
+          "oklch(48% 0.006 84.6)",
+          "oklch(59% 0.006 84.6)",
+          "oklch(70% 0.006 84.6)",
+          "oklch(82% 0.006 84.6)",
+          "oklch(95% 0.006 84.6)"
+        ]
+      },
+      "error": {
+        "role": "error",
+        "displayName": "Error Rust",
+        "canonical": "oklch(48.1% 0.132 34.0)",
+        "tonalRamp": [
+          "oklch(15% 0.132 34.0)",
+          "oklch(26% 0.132 34.0)",
+          "oklch(37% 0.132 34.0)",
+          "oklch(48% 0.132 34.0)",
+          "oklch(59% 0.132 34.0)",
+          "oklch(70% 0.132 34.0)",
+          "oklch(82% 0.132 34.0)",
+          "oklch(95% 0.132 34.0)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline only; uppercase Cormorant."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section h2, uppercase; 40-52px on desktop for two-column bands."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service row names and step titles, uppercase."
+      },
+      "voice": {
+        "displayName": "Voice",
+        "purpose": "Italic Cormorant for Jen's own words."
+      },
+      "voice-small": {
+        "displayName": "Voice small",
+        "purpose": "Italic sage tags and the special line."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Hero promise."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All running text, system sans."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels, tel link, buttons (17px)."
+      }
+    },
+    "shadows": [
+      {
+        "name": "hem-lift",
+        "value": "drop-shadow(0 -2px 2.5px rgba(70,58,38,.12))",
+        "purpose": "Filter on every seam; upper cloth shades the band below."
+      },
+      {
+        "name": "button-press",
+        "value": "0 6px 12px -8px rgba(47,59,45,.6)",
+        "purpose": "Filled sage button only."
+      },
+      {
+        "name": "card-rest",
+        "value": "0 14px 30px -16px rgba(60,50,30,.42)",
+        "purpose": "Facebook card, the one raised object."
+      },
+      {
+        "name": "seal",
+        "value": "0 18px 40px -16px rgba(0,0,0,.55)",
+        "purpose": "Logo seal on forest."
+      },
+      {
+        "name": "brand-ring",
+        "value": "0 0 0 1.5px #DCD2C4",
+        "purpose": "Halo ring around the header logo mark."
+      },
+      {
+        "name": "form-hover",
+        "value": "0 0 0 1px #A57A44",
+        "purpose": "Form control hover outline."
+      },
+      {
+        "name": "form-focus",
+        "value": "0 0 0 3px rgba(165,122,68,.28)",
+        "purpose": "Form control focus glow."
+      },
+      {
+        "name": "form-button-halo",
+        "value": "0 0 0 3px rgba(165,122,68,.35)",
+        "purpose": "Send and copy button hover/focus."
+      }
+    ],
+    "motion": [
+      {
+        "name": "loop",
+        "value": "single shared requestAnimationFrame (Loop.add / Loop.kick); jobs return true to continue",
+        "purpose": "Every moving thing registers here; loop sleeps when all jobs idle."
+      },
+      {
+        "name": "ui-transition",
+        "value": "0.2s-0.25s background-color, color, border-color, box-shadow",
+        "purpose": "State changes on buttons, arrows, fields, chips."
+      },
+      {
+        "name": "press",
+        "value": "transform translateY(1px) over 0.15s",
+        "purpose": "Button :active."
+      },
+      {
+        "name": "sheet",
+        "value": "SHEET = {CELL_PHONE:3, CELL_DESK:4, CREASES_PHONE:22, CREASES_DESK:26, FINE_PHONE:26, FINE_DESK:40, FOLD_HEIGHT:15, FOLD_WIDTH:22, BRUSH:58, SMOOTH:0.8, REGROW:0.0032, GHOST:0.6, BUNCH:2.2, BUNCH_DECAY:0.93, BREEZE:1.5, BREEZE_AMP:4.2, COPY_PAD:18, FADE:200, FADE_PHONE:80, IDLE_RESUME:5000, MAX_DPR:2}",
+        "purpose": "Hero cloth heightfield; smoothed by pointer or by a ghost hand after 5s idle; folds regrow; flat behind copy."
+      },
+      {
+        "name": "seam",
+        "value": "SEAM = {STEP:14, A1:3.2, A2:1.6, A3:2.4, SPEED:1, HEM:11, PUSH:7, PUSH_R:90, FLUTTER:1.6, FLUTTER_DECAY:0.94}",
+        "purpose": "Breathing sewn hems; lift near the pointer; flutter after a fast scroll."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "No breeze, no ghost, sheet runs only 4s after the visitor's stroke; seams static; instant scroll."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "xs",
+        "value": "359px"
+      },
+      {
+        "name": "sm",
+        "value": "374px"
+      },
+      {
+        "name": "phone-wide",
+        "value": "519px"
+      },
+      {
+        "name": "md",
+        "value": "600px"
+      },
+      {
+        "name": "sheet-phone",
+        "value": "700px"
+      },
+      {
+        "name": "lg",
+        "value": "960px"
+      },
+      {
+        "name": "xl",
+        "value": "1024px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled sage pill; opens a pre-filled text to Jen.",
+      "html": "<a class=\"ds-btn ds-btn-fill\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path d=\"M4.5 6.5A2.5 2.5 0 0 1 7 4h10a2.5 2.5 0 0 1 2.5 2.5v7A2.5 2.5 0 0 1 17 16h-6.5L6 19.8V16h0a2.5 2.5 0 0 1-1.5-2.3z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/></svg>Text me for an estimate</a>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:58px;padding:0 26px;border-radius:999px;border:1.5px solid var(--sage-deep);font:600 17px/1.2 var(--body);letter-spacing:.01em;text-decoration:none;cursor:pointer;transition:background-color .25s,color .25s,box-shadow .25s,transform .15s} .ds-btn:active{transform:translateY(1px)} .ds-btn:focus-visible{outline:3px solid var(--sage-deep);outline-offset:3px} .ds-btn-fill{background:var(--sage-deep);color:var(--linen);box-shadow:0 6px 12px -8px rgba(47,59,45,.6)} .ds-btn-fill:hover{background:#43513A}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined sage pill; the hero's second action.",
+      "html": "<a class=\"ds-btn ds-btn-line\" href=\"#\">Tell me about your home</a>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:58px;padding:0 26px;border-radius:999px;border:1.5px solid var(--sage-deep);font:600 17px/1.2 var(--body);letter-spacing:.01em;text-decoration:none;cursor:pointer;transition:background-color .25s,color .25s,box-shadow .25s,transform .15s} .ds-btn:active{transform:translateY(1px)} .ds-btn:focus-visible{outline:3px solid var(--sage-deep);outline-offset:3px} .ds-btn-line{background:transparent;color:var(--sage-deep)} .ds-btn-line:hover{background:rgba(78,93,67,.08)}"
+    },
+    {
+      "name": "Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Brand mark + wordmark left, tel number top-right.",
+      "html": "<header class=\"ds-top\"><a class=\"ds-brand\" href=\"#\"><span class=\"ds-mark\"></span><span>The Clean Edit</span></a><a class=\"ds-tel\" href=\"tel:+19084141740\"><svg viewBox=\"0 0 24 24\" width=\"17\" height=\"17\" aria-hidden=\"true\"><path d=\"M6.6 3.8h2.6l1.4 4-1.9 1.3a10.6 10.6 0 0 0 6.2 6.2l1.3-1.9 4 1.4v2.6A2 2 0 0 1 18.2 20 14.4 14.4 0 0 1 4 5.8a2 2 0 0 1 2.6-2z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/></svg>908-414-1740</a></header>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 20px;background:var(--linen);color:var(--ink)} .ds-brand{display:flex;align-items:center;gap:10px;min-height:48px;text-decoration:none;color:inherit} .ds-mark{width:42px;height:42px;border-radius:50%;background:#fbf9f5;box-shadow:0 0 0 1.5px var(--ring)} .ds-brand span:last-child{font:600 22px/1 var(--display);letter-spacing:.06em;text-transform:uppercase} .ds-tel{display:flex;align-items:center;gap:7px;min-height:48px;font:600 16px var(--body);font-variant-numeric:tabular-nums;color:var(--ink);text-decoration:none} .ds-tel svg{color:var(--sage-deep)} .ds-tel:hover{color:var(--sage-deep)} .ds-tel:focus-visible{outline:3px solid var(--sage-deep);outline-offset:3px}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "service-arrow",
+      "description": "Tappable row; only the arrow changes on hover/focus.",
+      "html": "<ul class=\"ds-rows\"><li><a class=\"ds-row\" href=\"#\"><span class=\"ds-row-name\">Deep cleaning<span class=\"ds-row-tag\">October special</span></span><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path d=\"M5 12h13M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></li><li><a class=\"ds-row\" href=\"#\"><span class=\"ds-row-name\">Closet organizing</span><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path d=\"M5 12h13M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></li></ul>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-arrow{flex:none;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;border:1.5px solid rgba(78,93,67,.35);color:var(--sage-deep);transition:background-color .25s,color .25s,border-color .25s} .ds-rows{list-style:none;margin:0;padding:0;border-top:1px solid rgba(78,93,67,.22);background:var(--mist)} .ds-row{display:flex;align-items:center;gap:14px;min-height:72px;padding:12px 0;text-decoration:none;color:var(--ink);border-bottom:1px solid rgba(78,93,67,.22);outline:none} .ds-row:hover,.ds-row:focus-visible{outline:none;background:none;box-shadow:none} .ds-row-name{flex:1;font:600 30px/1.1 var(--display);letter-spacing:.03em;text-transform:uppercase} .ds-row-tag{display:block;margin-top:4px;font:italic 600 17px/1.2 var(--display);letter-spacing:.02em;text-transform:none;color:var(--sage-deep)} .ds-row:hover .ds-arrow,.ds-row:focus-visible .ds-arrow,.ds-row:active .ds-arrow{background:var(--sage-deep);border-color:var(--sage-deep);color:var(--linen)} .ds-row:focus-visible .ds-arrow{outline:3px solid var(--sage-deep);outline-offset:3px}"
+    },
+    {
+      "name": "Facebook Card",
+      "kind": "card",
+      "refersTo": "facebook-card",
+      "description": "The one raised object; proof link to Jen's Facebook.",
+      "html": "<a class=\"ds-fb\" href=\"#\"><span class=\"ds-fb-ico\"><svg viewBox=\"0 0 24 24\" width=\"26\" height=\"26\" aria-hidden=\"true\"><path d=\"M13.6 21v-7.4h2.5l.4-3h-2.9V8.8c0-.9.3-1.5 1.5-1.5h1.5V4.6c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.2H8.2v3h2.5V21z\" fill=\"currentColor\"/></svg></span><span class=\"ds-fb-txt\">See my work<small>on Facebook</small></span><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path d=\"M5 12h13M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-arrow{flex:none;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;border:1.5px solid rgba(78,93,67,.35);color:var(--sage-deep);transition:background-color .25s,color .25s,border-color .25s} .ds-fb{display:flex;align-items:center;gap:16px;padding:18px 20px;border-radius:22px;background:var(--linen);color:var(--ink);text-decoration:none;box-shadow:0 14px 30px -16px rgba(60,50,30,.42);font-family:var(--body)} .ds-fb-ico{flex:none;width:52px;height:52px;border-radius:50%;background:#3F5A8A;color:#fff;display:grid;place-items:center} .ds-fb-txt{flex:1;font-weight:600;font-size:18px;line-height:1.3} .ds-fb-txt small{display:block;font-weight:400;font-size:15px;color:var(--ink-soft)} .ds-fb:hover .ds-arrow,.ds-fb:focus-visible .ds-arrow{background:var(--sage-deep);border-color:var(--sage-deep);color:var(--linen)} .ds-fb:focus-visible{outline:none} .ds-fb:focus-visible .ds-arrow{outline:3px solid var(--sage-deep);outline-offset:3px}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Form field; brass outline on hover and focus.",
+      "html": "<label class=\"ds-fld\"><span>Your town</span><input class=\"ds-input\" type=\"text\"></label>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-fld span{display:block;font:600 16px var(--body);margin-bottom:8px;color:var(--ink)} .ds-input{width:100%;box-sizing:border-box;min-height:54px;padding:13px 16px;border-radius:14px;border:1.5px solid #958977;background:#FBF9F5;font:17px/1.4 var(--body);color:var(--ink);caret-color:var(--sage-deep);transition:border-color .2s,box-shadow .2s;appearance:none} .ds-input:hover{border-color:var(--brass);box-shadow:0 0 0 1px var(--brass)} .ds-input:focus{outline:none;border-color:var(--brass);box-shadow:0 0 0 3px rgba(165,122,68,.28)}"
+    },
+    {
+      "name": "Choice Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Pill checkbox with a rounded-square box; form only.",
+      "html": "<div class=\"ds-chips\"><label class=\"ds-chip\"><input type=\"checkbox\" checked><span>Deep clean</span></label><label class=\"ds-chip\"><input type=\"checkbox\"><span>Closets</span></label></div>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-chips{display:flex;flex-wrap:wrap;gap:10px} .ds-chip{position:relative} .ds-chip input{position:absolute;opacity:0;width:1px;height:1px} .ds-chip span{display:flex;align-items:center;gap:8px;min-height:48px;padding:0 14px;border-radius:999px;border:1.5px solid #958977;background:#FBF9F5;font:16px var(--body);color:var(--ink);cursor:pointer;transition:border-color .2s,background-color .2s,color .2s,box-shadow .2s} .ds-chip span::before{content:'';width:16px;height:16px;border-radius:5px;border:1.5px solid var(--sage);flex:none} .ds-chip:hover span{border-color:var(--brass);box-shadow:0 0 0 1px var(--brass)} .ds-chip input:focus-visible+span{border-color:var(--brass);box-shadow:0 0 0 3px rgba(165,122,68,.28)} .ds-chip input:checked+span{background:var(--sage-deep);border-color:var(--sage-deep);color:var(--linen)} .ds-chip input:checked+span::before{border-color:var(--linen);background:var(--linen) url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5l3 3 6-7' fill='none' stroke='%234E5D43' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/12px no-repeat} .ds-chip:hover input:checked+span{border-color:var(--brass)}"
+    },
+    {
+      "name": "Thread Steps",
+      "kind": "custom",
+      "refersTo": "knot",
+      "description": "Numbered knots on a dashed running thread.",
+      "html": "<ol class=\"ds-steps\"><li class=\"ds-step\"><span class=\"ds-knot\">1</span><h3>Text me</h3><p>Tell me about your home.</p></li><li class=\"ds-step\"><span class=\"ds-knot\">2</span><h3>Pick a day</h3><p>We find a time that fits.</p></li></ol>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-steps{list-style:none;margin:0;padding:0;background:var(--linen)} .ds-step{position:relative;padding:0 0 34px 66px} .ds-step:last-child{padding-bottom:0} .ds-step:not(:last-child)::before{content:'';position:absolute;left:21px;top:44px;bottom:0;border-left:2px dashed rgba(78,93,67,.6)} .ds-knot{position:absolute;left:0;top:-2px;width:44px;height:44px;border-radius:50%;background:var(--linen);border:1.5px solid var(--ring);display:grid;place-items:center;font:600 17px/1 var(--body);color:var(--sage-deep)} .ds-step h3{font:600 28px/1.02 var(--display);letter-spacing:.04em;text-transform:uppercase;margin:6px 0 8px;color:var(--ink)} .ds-step p{margin:0;font:17px/1.6 var(--body);color:var(--ink-soft)}"
+    },
+    {
+      "name": "Sewn Hem",
+      "kind": "custom",
+      "refersTo": "seam",
+      "description": "Static snapshot of the seam joining two bands (live version is animated by SEAM).",
+      "html": "<div class=\"ds-hem\"><svg viewBox=\"0 0 400 38\" preserveAspectRatio=\"none\"><path class=\"c\" d=\"M0 40 L0 15 C60 11 120 19 200 15 S340 11 400 16 L400 40Z\"/><path class=\"f\" d=\"M0 15 C60 11 120 19 200 15 S340 11 400 16 L400 27 S260 22 200 26 S60 22 0 26Z\"/><path class=\"s\" d=\"M0 20.5 C60 16.5 120 24.5 200 20.5 S340 16.5 400 21.5\"/></svg><div class=\"ds-band\"></div></div>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-hem{background:var(--linen);padding-top:24px} .ds-hem svg{display:block;width:100%;height:38px;margin-bottom:-1px;filter:drop-shadow(0 -2px 2.5px rgba(70,58,38,.12))} .ds-hem .c{fill:var(--mist)} .ds-hem .f{fill:color-mix(in srgb,var(--mist) 90%,#8a7a60)} .ds-hem .s{fill:none;stroke:rgba(78,93,67,.75);stroke-width:2;stroke-dasharray:6 5;stroke-linecap:round} .ds-band{height:48px;background:var(--mist)}"
+    },
+    {
+      "name": "Close Button on Forest",
+      "kind": "button",
+      "refersTo": "button-on-forest",
+      "description": "Inverted primary on the forest close.",
+      "html": "<div class=\"ds-close\"><a class=\"ds-btn ds-btn-inv\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path d=\"M4.5 6.5A2.5 2.5 0 0 1 7 4h10a2.5 2.5 0 0 1 2.5 2.5v7A2.5 2.5 0 0 1 17 16h-6.5L6 19.8V16h0a2.5 2.5 0 0 1-1.5-2.3z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/></svg>Text me for an estimate</a></div>",
+      "css": ":host{--linen:#F3EFE8;--linen-2:#ECE5D9;--mist:#E5E7DA;--ring:#DCD2C4;--sage:#7B8A69;--sage-deep:#4E5D43;--forest:#2F3B2D;--ink:#262B23;--ink-soft:#545A4E;--brass:#A57A44;--display:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;--body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:58px;padding:0 26px;border-radius:999px;border:1.5px solid var(--sage-deep);font:600 17px/1.2 var(--body);letter-spacing:.01em;text-decoration:none;cursor:pointer;transition:background-color .25s,color .25s,box-shadow .25s,transform .15s} .ds-btn:active{transform:translateY(1px)} .ds-btn:focus-visible{outline:3px solid var(--sage-deep);outline-offset:3px} .ds-close{background:var(--forest);padding:32px;text-align:center} .ds-btn-inv{background:var(--linen);color:var(--forest);border-color:var(--linen);min-width:min(100%,320px)} .ds-btn-inv:hover{background:#fff} .ds-btn-inv:focus-visible{outline-color:var(--linen)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Freshly Made Bed",
+    "overview": "**Creative North Star: \"The Freshly Made Bed\"**\n\nThe page is undyed linen. A faint warp-and-weft weave sits over every ground, under every word. Sections are lengths of cloth sewn together: each band meets the one above along a slowly breathing wavy edge, with a turned-under hem strip and a running stitch. The hero's lower half is a rumpled sheet that the visitor smooths flat with a finger or mouse. Left alone, it smooths itself. Everything else stays still and tidy, because the product is a room that has just been put right.\n\nThe world comes from Jen's own logo: a cream round seal, a pale taupe ring, a sage olive sprig, high-contrast serif capitals and a small four-point sparkle. The cream becomes the ground, the ring becomes every hairline, the sprig's green is the single accent, and Cormorant Garamond capitals echo the lettering. Density is low. There is one column of copy, generous bands and very little chrome. The contact system is a text message: every primary control opens a pre-filled `sms:` to Jen.\n\nThe world rejects the stock sparkling-kitchen photo and the checkmark-list cleaning template (direction contract THESIS).",
+    "keyCharacteristics": [
+      "Linen ground with a woven slub texture (`body::before`, multiply, opacity .07) over the whole page.",
+      "One accent, sage-deep, for buttons, hover arrows, knots and focus rings. Brass is reserved for form controls.",
+      "Cormorant Garamond 600 in uppercase for names and headings, Cormorant italic for Jen's own voice, and the system sans for reading.",
+      "Sections joined by sewn hems instead of rules or straight edges.",
+      "One interactive signature (the sheet). Motion is ambient, cloth-like, and runs on one shared scheduler.",
+      "The page ends on a forest-green close carrying the full logo seal."
+    ],
+    "rules": [
+      {
+        "name": "The One Thread Rule",
+        "body": "Sage-deep is the only accent outside the form. Rows, cards and labels stay neutral at rest. The accent appears on hover, press or selection, never by default on something the visitor hasn't touched.",
+        "section": "colors"
+      },
+      {
+        "name": "The Brass-Is-For-Forms Rule",
+        "body": "Brass appears only as the hover/focus outline of controls inside the estimate form. It never fills anything and never appears outside the form.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat-Sheet Rule",
+        "body": "The hero canvas shades toward HI rgb(254,252,248) and LO rgb(182,172,154) around a base of exactly linen. Flat cloth must render as the page ground, pixel for pixel, so there is never a visible canvas edge.",
+        "section": "colors"
+      },
+      {
+        "name": "The Logo Capitals Rule",
+        "body": "Every display-face heading is uppercase with positive tracking (0.03 to 0.06em). Sentence case in the display face is reserved for italic, which means Jen speaking.",
+        "section": "typography"
+      },
+      {
+        "name": "The Native Reading Rule",
+        "body": "Paragraphs, labels, buttons and form text use the system sans. The serif never sets running text.",
+        "section": "typography"
+      },
+      {
+        "name": "The Cloth-Not-Cards Rule",
+        "body": "New content goes on a band, joined by a sewn hem, not in a floating card. A card shadow is reserved for something the visitor taps that leaves the page (the Facebook card).",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** put the phone number in the header's top-right as a `tel:` text link, and nowhere else on the first screen. The footer may repeat it.",
+      "**Do** keep the hero to a short display headline, Jen's promise, and at most two buttons (filled text, outlined secondary).",
+      "**Do** make every primary action an `sms:` to Jen with a pre-filled body, and let the form hand off by text.",
+      "**Do** put the Facebook link where proof lives (under work photos once they exist, the Meet Jen card today) and in the footer.",
+      "**Do** change only the arrow on row hover, focus and press: neutral circle at rest, sage-deep fill when engaged, focus ring on the arrow.",
+      "**Do** outline every form control (fields, chips, send, copy) in brass on hover and focus, and only form controls.",
+      "**Do** join new sections with a sewn hem and set the band's `--bg` (and `--stitch` when the ground needs a different thread).",
+      "**Do** keep the sheet flat behind any text it sits under, and keep it rendering exact linen when smooth.",
+      "**Do** run new motion through `Loop`, pause it off-screen, and give it a reduced-motion state that only moves under the visitor's own input.",
+      "**Do** use only Jen's facts. Gaps (photos, towns, prices, reviews, email) stay gaps. Time-limited offers carry `data-until` so they disappear on their own.",
+      "**Do** keep raster provenance with the files: the logo, favicon (`assets/favicon-64.png`) and touch icon (`assets/apple-touch-icon.png`) come from the business's Facebook profile image (fetched 2026-10-19). `assets/og.png` was composed in Chromium from the page's own type and logo."
+    ],
+    "donts": [
+      "**Don't** add a sticky bottom bar or a fixed contact banner.",
+      "**Don't** put a Call button under the hero title, or show the number twice on one screen.",
+      "**Don't** add email buttons, links or prompts. An email, if Jen supplies one, goes in the footer only.",
+      "**Don't** outline, tint or shadow a service row (or any arrow row) on hover.",
+      "**Don't** style non-interactive labels (row tags, knots, the special line, any future town list) as pills, chips or buttons. Town names are plain text.",
+      "**Don't** introduce a second accent outside the form, or use brass as a fill.",
+      "**Don't** invent facts: no prices, discount amounts, reviews, towns, years, insurance or \"free estimate\" claims Jen hasn't made.",
+      "**Don't** let pattern, fold or stitch lines run through text.",
+      "**Don't** set running text in Cormorant, or set the display face in sentence-case roman."
+    ]
+  }
+}
