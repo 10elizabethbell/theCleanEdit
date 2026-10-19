@@ -1,0 +1,47 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cream-palette",
+        "value": "rgb(243, 239, 232)",
+        "createdAt": "2026-10-19T17:51:11.864Z",
+        "reason": "agent decision: ground taken from the client's own cream logo (src-assets/logo.jpg); pitch-site rule: brand wins on color"
+      },
+      {
+        "rule": "overused-font",
+        "value": "roboto",
+        "createdAt": "2026-10-19T17:51:11.935Z",
+        "reason": "agent decision: Roboto is only the Android entry in the system body stack Ellie's pitch-site house style prescribes; display face is Cormorant"
+      },
+      {
+        "rule": "all-caps-body",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T17:51:12.075Z",
+        "reason": "agent decision: caps are only on short names (business name, service names) echoing the logo's capitals; no paragraph is uppercase"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T17:51:12.145Z",
+        "reason": "agent decision: false positive, measured body sizes only; display steps run 25/32-54/46-104px"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T17:51:12.218Z",
+        "reason": "agent decision: ul.rows border-top is a ruled-list divider above 72px rows, not a container edge"
+      }
+    ]
+  }
+}
