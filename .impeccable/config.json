@@ -41,6 +41,84 @@
         ],
         "createdAt": "2026-10-19T17:51:12.218Z",
         "reason": "agent decision: ul.rows border-top is a ruled-list divider above 72px rows, not a container edge"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(63, 90, 138)",
+        "createdAt": "2026-10-19T18:09:28.931Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(217, 220, 207)",
+        "createdAt": "2026-10-19T18:09:29.008Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#d9decb",
+        "createdAt": "2026-10-19T18:09:29.078Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#43513a",
+        "createdAt": "2026-10-19T18:09:29.150Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#8a7a60",
+        "createdAt": "2026-10-19T18:09:29.222Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#fff",
+        "createdAt": "2026-10-19T18:09:29.294Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#6b6e63",
+        "createdAt": "2026-10-19T18:09:29.365Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#b5583f",
+        "createdAt": "2026-10-19T18:09:29.432Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "18px",
+        "createdAt": "2026-10-19T18:09:29.505Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "15px",
+        "createdAt": "2026-10-19T18:09:29.576Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "clamp(40px,4.4vw,52px)",
+        "createdAt": "2026-10-19T18:09:29.645Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "18px",
+        "createdAt": "2026-10-19T18:09:29.718Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "12px",
+        "createdAt": "2026-10-19T18:09:29.788Z",
+        "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
       }
     ]
   }
