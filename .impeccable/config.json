@@ -119,6 +119,15 @@
         "value": "12px",
         "createdAt": "2026-10-19T18:09:29.788Z",
         "reason": "agent decision: one-off value in the shipped build that DESIGN.md (derived from that build) deliberately did not canonize; see DESIGN.md component notes"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T23:29:40.877Z",
+        "reason": "agent decision: ground taken from the client's own cream logo (src-assets/logo.jpg); value-specific ignore did not match the page-level finding"
       }
     ]
   }
